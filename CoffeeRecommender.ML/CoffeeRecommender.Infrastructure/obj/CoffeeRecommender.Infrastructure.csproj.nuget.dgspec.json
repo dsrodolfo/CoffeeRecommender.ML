@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodolfo\\source\\repos\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj": {}
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodolfo\\source\\repos\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj": {
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodolfo\\source\\repos\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj",
         "projectName": "CoffeeRecommender.Infrastructure",
-        "projectPath": "C:\\Users\\Rodolfo\\source\\repos\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Rodolfo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodolfo\\source\\repos\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

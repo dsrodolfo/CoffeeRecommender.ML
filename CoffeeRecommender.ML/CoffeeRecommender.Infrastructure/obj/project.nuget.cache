@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7WZJPNxADdjJXPuT/95FoEAHTOYVGKUinNT1c5dnJHm79OmFSo9vwTagDMRK2sWF4M+cRL2Nn+CBnEXvzG2Lsw==",
+  "dgSpecHash": "2y+AeNYAo414epjrB3R8UcL5HZcmM/GL+Qysr5pj6GiNbW3Z9252ICb/Ul0XoGJvK6LOsoTa8V3UjFeZvYyyMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodolfo\\source\\repos\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Infrastructure\\CoffeeRecommender.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

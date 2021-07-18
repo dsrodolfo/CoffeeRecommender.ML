@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Application\\CoffeeRecommender.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Application\\CoffeeRecommender.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Application\\CoffeeRecommender.Application.csproj",
+        "projectName": "CoffeeRecommender.Application",
+        "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Application\\CoffeeRecommender.Application.csproj",
+        "packagesPath": "C:\\Users\\Rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Domain\\CoffeeRecommender.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Domain\\CoffeeRecommender.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Domain\\CoffeeRecommender.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Domain\\CoffeeRecommender.Domain.csproj",
+        "projectName": "CoffeeRecommender.Domain",
+        "projectPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Domain\\CoffeeRecommender.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodolfo\\Desktop\\PersonalProjects\\CoffeeRecommender.ML\\CoffeeRecommender.ML\\CoffeeRecommender.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://nuget.signa.net.br/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.ML.Recommender": {
+              "target": "Package",
+              "version": "[0.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
